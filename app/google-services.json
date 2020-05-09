@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431457790024",
+    "firebase_url": "https://withfit-b72b6.firebaseio.com",
+    "project_id": "withfit-b72b6",
+    "storage_bucket": "withfit-b72b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431457790024:android:ea458256e90e36f006507d",
+        "android_client_info": {
+          "package_name": "com.example.practicewf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431457790024-p1tverrm1n5qpmr90r7dkd4o03r2h7it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ0eUOTqoykr-5E6EVzOQrc_I0CjC249M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431457790024-p1tverrm1n5qpmr90r7dkd4o03r2h7it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
